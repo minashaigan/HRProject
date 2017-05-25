@@ -22,8 +22,16 @@
         "psr-4": {
             "App\\": "app/",
             "Modules\\ProjectManagement\\": "Modules/ProjectManagement",
-            "Modules\\Project\\": "Modules/Project"
-
+            "Modules\\Project\\": "Modules/Project",
+            "Modules\\Workday\\": "Modules/Workday",
+            "Modules\\HR\\": "Modules/HR",
+            "Modules\\HRWorkdays\\": "Modules/HRWorkdays",
+            "Modules\\HRPresentdaysByInterentCompany\\": "Modules/HRPresentdaysByInterentCompany",
+            "Modules\\HRPresentdaysByFingerPrint\\": "Modules/HRPresentdaysByFingerPrint",
+            "Modules\\HRPresentdaysByCard\\": "Modules/HRPresentdaysByCard",
+            "Modules\\HRSaleries\\": "Modules/HRSaleries",
+            "Modules\\HRCareerProg\\": "Modules/HRCareerProg",
+            "Modules\\HRHireFire\\": "Modules/HRHireFire"
         }
     },
     "autoload-dev": {

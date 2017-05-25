@@ -1,0 +1,16 @@
+{
+    "name": "HRSaleries",
+    "alias": "hrsaleries",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\HRSaleries\\Providers\\HRSaleriesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
